@@ -1,4 +1,4 @@
-# Finding Popular Stories From Reddit Using API Request #
+# Applying API Requests On Hacker News Stories #
 
 <table>
   <tr> </tr>
@@ -9,7 +9,7 @@
   </tr>
   <tr>
     <td colspan="4">
-      <a href="https://nbviewer.jupyter.org/github/lionelcub/finding_popular_stories_from_reddit_using_API_request/blob/master/finding_popular_stories_from_reddit_using_API_request.ipynb">Finding Popular Stories From Reddit Using API Request.</a> 
+      <a href="https://nbviewer.jupyter.org/github/lionelcub/applying_API_requests_on_hacker_news_stories/blob/master/applying_API_requests_on_hacker_news_stories.ipynb">Applying API Requests On Hacker News Stories.</a> 
       (Link to Notebook Viewer)
     </td>
   </tr>
@@ -55,8 +55,8 @@
     <td colspan="4">
     <ul>
       <p></p>
-      <li><a href="https://github.com/lionelcub/finding_popular_stories_from_reddit_using_API_request/blob/master/finding_popular_stories_from_reddit_using_API_request/csv/hacker_news_newsstories.csv" target="_blank">Hacker News Stories Dataset 1.</a></li>
-      <li><a href="https://github.com/lionelcub/finding_popular_stories_from_reddit_using_API_request/blob/master/finding_popular_stories_from_reddit_using_API_request/csv/hacker_news.csv" target="_blank">Hacker News Stories Dataset 2.</a></li>
+      <li><a href="https://github.com/lionelcub/applying_API_requests_on_hacker_news_stories/blob/master/applying_API_requests_on_hacker_news_stories/csv/hacker_news_newsstories.csv" target="_blank">Hacker News Stories Dataset 1.</a></li>
+      <li><a href="https://github.com/lionelcub/applying_API_requests_on_hacker_news_stories/blob/master/applying_API_requests_on_hacker_news_stories/csv/hacker_news.csv" target="_blank">Hacker News Stories Dataset 2.</a></li>
     </ul>
     </td>
   </tr>
