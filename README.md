@@ -43,7 +43,7 @@
   <tr>
     <td colspan="4">
       <p></p>
-      <p>The objective is to make an API requests to <a href="https://news.ycombinator.com/">Hacker News</a> to collect data and find the top stories.
+      <p>The objective is to make an API requests to <a href="https://github.com/HackerNews/API">Hacker News</a> to collect data.
     </td>
   </tr>
   
